@@ -1,0 +1,29 @@
+.sidebar{
+    width: 12vw;
+    height: 100vh;
+    /* box-shadow: 1px 1px 2px grey; */
+    padding-top: 3vh;
+    float: left;
+}
+
+.sideinfo{
+    margin-bottom: 2.5vh;
+    font-size: 1.7vw;
+}
+
+
+.listings{
+    width: 11vw;
+    height: 30vh;
+    margin: auto;
+    /* border: solid; */
+    margin-top: 19vh;
+    text-align: left;
+
+}
+
+.listings li{
+    margin-bottom: 3vh;
+    list-style-type: none;
+    font-weight: 600;
+}

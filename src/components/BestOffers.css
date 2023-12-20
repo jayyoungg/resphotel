@@ -1,0 +1,49 @@
+.BestOffers{
+    width: 85vw;
+    height: auto;
+    /* background-color: whitesmoke; */
+    box-sizing: border-box;
+}
+
+.BestOffers h2{
+    width: 15vw;
+    height: 7vh;
+    /* border: solid; */
+    margin-bottom: 5vh;
+    color: gray;
+}
+
+.bestofferholder{
+    width: 85vw;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    
+}
+
+.offerholder{
+    width: 15vw;
+    height: 35vh;
+    background-color: white;
+    text-align: left;
+    border-radius: 2vw;
+    transition: 3s ease-in;
+    
+}
+
+.offerholder:hover{
+    zoom: 130%;
+    transition: 3s ease-out;
+}
+
+
+
+.offerholder h3{
+    margin-left: 1vw;
+    font-size: larger;
+}
+.offerholder p{
+    margin-left: 1vw;
+}
+.offerholder h5{
+    margin-left: 1vw;
+}

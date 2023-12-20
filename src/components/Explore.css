@@ -1,0 +1,23 @@
+.Explore{
+    width: 85vw;
+    height: auto;
+}
+
+.Explore h2{
+    text-align: left;
+    margin-left: 2vw;
+    color: gray;
+}
+.exploreholder{
+    width: 85vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.exploring{
+    text-align: left;
+}
+
+.exploring h3{
+    text-decoration: underline;
+}

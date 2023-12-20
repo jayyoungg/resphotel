@@ -1,0 +1,15 @@
+.dashboard{
+    width: 85vw;
+    height: auto;
+    padding-bottom: 5vh;
+    padding-top: 4vh;
+    /* border: solid; */
+    /* float: right; */
+    margin-right: 3vw;
+    margin-left: 13vw;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    padding-bottom: 5vh;
+
+}
+

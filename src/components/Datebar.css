@@ -1,0 +1,13 @@
+.datebar{
+    width: 13vw;
+    height: 6vh;
+    float: right;
+    border: solid;
+    border-radius: 1vw;
+    box-sizing: border-box;
+    margin-right: 3vw;
+    font-size: large;
+    text-align: center;
+    font-weight: 700;
+    
+}

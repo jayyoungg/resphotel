@@ -1,0 +1,16 @@
+.searchbar{
+    width: 20vw;
+    height: auto;
+
+}
+
+.searchbar input{
+    border: solid;
+    border-radius: 1vw;
+    width: 13vw;
+    height: 6vh;
+    padding-left: 1vw;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 3vw;
+}

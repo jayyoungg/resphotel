@@ -1,0 +1,33 @@
+.TrendingDestination{
+    width: 85vw;
+    height: 30vh;
+}  
+
+.TrendingDestination h2{
+   width: 15vw;
+   height: 6vh;
+   /* border: solid; */
+   margin-top: 3vh;
+   margin-bottom: 3vh;
+   color: grey;
+
+}
+
+.destimgholder{
+    width: 15vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.destinations{
+    width: 25vw;
+    height: 16vh;
+    /* border: solid; */
+    background-color: white;
+    border-radius: 2vw;
+    margin-right: 3vw;
+    box-sizing: border-box;
+    text-align: left;
+}
+
